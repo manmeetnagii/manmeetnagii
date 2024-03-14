@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manmeet Nagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently working on **SAAS(Website-Builder) Application**
 
 - 👨‍💻 All of my projects are available at [manmeetnagi.netlify.app](manmeetnagi.netlify.app)
 
